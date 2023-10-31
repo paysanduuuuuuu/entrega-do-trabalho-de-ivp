@@ -1,0 +1,19 @@
+body{
+    text-align: justify;
+    color: white;
+    background-color: green;
+}
+
+.titulo {
+    font-family: monospace;
+    color: white;
+    text-align: center;
+}
+
+.subtitulo {
+    font-family: monospace;
+    text-align: center;
+}
+.fotocidade{
+    text-align: center;
+}
